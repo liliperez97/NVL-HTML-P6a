@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Liga Nacional de fútbol </title>
+  </head>
+  <body>
+    <h1> Clasicación de los equipos de fútbol de la Liga Nacional </h1>
+      <ol> 
+        <li> Barcelona  </li> 
+        <li> Real Madrid  </li> 
+        <li> Sevilla  </li> 
+        <li> Real Sociedad  </li> 
+        <li> Getafe  </li> 
+        <li> Atlético de Madrid  </li> 
+        <li> Valencia  </li> 
+        <li> Villareal  </li> 
+        <li> Granada  </li> 
+        <li> Athletic  </li> 
+        <li> Osasuna  </li> 
+        <li> Betis  </li> 
+        <li> Levante  </li> 
+        <li> Alavés  </li> 
+        <li> Valladolid  </li> 
+        <li> Eibar  </li>
+       </ol>
+  </body>
+</html>
